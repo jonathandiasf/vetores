@@ -23,4 +23,4 @@ Código em C para registrar e somar vendas usando vetores em um período de 5 di
 5. Interaja com o programa
    - Digite valores para cada dia solicitado, faça testes com diferentes entradas
    - O programa exibirá os valores registrados e o total do período.
-   -  
+     
